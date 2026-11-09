@@ -1,0 +1,11 @@
+# Database configuration
+.env
+/config/database.php
+
+# Dependencies
+/vendor/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
